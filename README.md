@@ -85,4 +85,5 @@ Hangisi sana benziyorsa onu seç. Her sınıfın kendi aracı var.
 <p align="center">
   <a href="https://www.yukselmurat.com"><img src="./assets/btn-website.svg" height="52" alt="yukselmurat.com" /></a>
   <a href="https://github.com/yuxelmurat"><img src="./assets/btn-github.svg" height="52" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/itsmuratyuksel/"><img src="./assets/btn-instagram.svg" height="52" alt="Instagram: itsmuratyuksel" /></a>
 </p>
