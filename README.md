@@ -52,8 +52,8 @@ Hangisi sana benziyorsa onu seç. Her sınıfın kendi aracı var.
       <p><b><a href="https://github.com/yuxelmurat/LumiaDAM">LumiaDAM</a></b>: 3D model, texture, HDRI/EXR ve CAD/DWG arşivleri için yerel varlık yöneticisi. NAS kütüphaneleriyle çalışır.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/yuxelmurat/Lumia.PM"><img src="./assets/card-lumiapm.svg" width="600" height="210" alt="Lumia.PM: açık kaynak proje yönetimi" /></a>
-      <p><b><a href="https://github.com/yuxelmurat/Lumia.PM">Lumia.PM</a></b>: Açık kaynak proje yönetimi. Gereken her şey, fazlası yok.</p>
+      <a href="https://github.com/yuxelmurat/KlasorlerArasiFiltreliDosyaKopyalamaAraci"><img src="./assets/card-copyfilter.svg" width="600" height="210" alt="CopyFilter: klasörler arası filtreli dosya kopyalama" /></a>
+      <p><b><a href="https://github.com/yuxelmurat/KlasorlerArasiFiltreliDosyaKopyalamaAraci">CopyFilter</a></b>: Seçtiğin formattaki dosyaları klasör yapısını koruyarak başka klasöre kopyalar. Kurulum yok, tıkla çalıştır.</p>
     </td>
   </tr>
   <tr>
@@ -67,14 +67,6 @@ Hangisi sana benziyorsa onu seç. Her sınıfın kendi aracı var.
     </td>
   </tr>
 </table>
-
-<details>
-<summary><b>Depodaki diğer araçlar</b></summary>
-<br />
-
-- **[KlasorlerArasiFiltreliDosyaKopyalamaAraci](https://github.com/yuxelmurat/KlasorlerArasiFiltreliDosyaKopyalamaAraci)**: Klasörler arası filtreli dosya kopyalama.
-
-</details>
 
 ## <a name="h-stack"><img src="./assets/h-stack.svg" width="32" height="20" alt="" /></a> Alet Çantası
 
